@@ -20,3 +20,5 @@ The custom CTS implementation involves the following steps:
 2. Adding a custom characteristic to the custom CTS service.
 
 3. Handling read requests for the custom characteristic to provide the desired data.
+
+All code for testing the custom CTS implementation is located in the `ViewController.swift` file. Please open `ViewController.swift` to view the implementation details.
